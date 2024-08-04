@@ -3,7 +3,6 @@
 
 * [Документация](https://vk-api.readthedocs.io/en/latest/)
 * [Примеры](./examples)
-* [Чат в Telegram](https://t.me/python273_vk_api)
 * [Документация по методам API](https://vk.com/dev/methods)
 * [Альтернативы vk_api](https://github.com/python273/vk_api/issues/356) (асинхронность; боты)
 
